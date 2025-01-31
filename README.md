@@ -1,13 +1,12 @@
-README.md
 # Infrastructure Proposals Repository
 
 Welcome to the **DPSN Infrastructure Proposals Repository**! This repository serves as a collaborative space where community members can submit, discuss, and propose infrastructure solutions. We are in the early stages of structuring the repository, and we welcome contributions from everyone interested in shaping the future of decentralized infrastructure.
 
 ## 📌 How It Works
 
-1. **Submit Proposals:** Community members can add new proposals by submitting a pull request to this repository or by reaching out to @jainsanil18.
-2. **Contribute Solutions:** Anyone can provide a solution to existing proposals by submitting their implementation or suggesting modifications.
-3. **Discussion & Feedback:** Discussions and feedback are encouraged through GitHub issues or by emailing **sanil@dpsn.org**.
+1. **Submit Proposals:** Community members can add new proposals by creating a **GitHub Issue** in this repository.
+2. **Contribute Solutions:** Anyone can provide a solution to existing proposals by commenting on the issue or submitting relevant implementation details.
+3. **Discussion & Feedback:** Discussions and feedback are encouraged directly within GitHub Issues.
 4. **Incentives & Rewards:** Depending on the project and agreement between teams, contributors may receive either **points** or **monetary rewards (in dollars)** for their accepted proposals.
 
 ---
@@ -17,8 +16,9 @@ Welcome to the **DPSN Infrastructure Proposals Repository**! This repository ser
 ### 1️⃣ Submitting a Proposal
 To submit a proposal, follow these steps:
 
-1. Fork this repository.
-2. Create a new Markdown file under `proposals/` directory with the following format:
+1. Navigate to the "Issues" tab in this repository.
+2. Click on "New Issue."
+3. Select the "Proposal" issue template and fill in the required details using the following format:
    ```markdown
    # Proposal Title
    
@@ -40,15 +40,18 @@ To submit a proposal, follow these steps:
    ## Reward Type
    Points or Dollars (Specify the amount if applicable).
    ```
-3. Submit a pull request with your proposal.
+4. Submit the issue and wait for community feedback and discussions.
 
 ### 2️⃣ Contributing a Solution
 If you want to contribute a solution to an existing proposal:
 
-1. Browse through the existing proposals in the `proposals/` directory.
-2. Create a new folder under `solutions/{proposal-title}/`.
-3. Add your solution in the folder with appropriate documentation.
-4. Submit a pull request with your solution.
+1. Browse through the existing proposals in the "Issues" section.
+2. Comment on the issue with your proposed solution, including:
+   - **Code Implementation** (if applicable)
+   - **Step-by-step explanation**
+   - **Test Cases**
+   - **Performance Benchmarks** (if relevant)
+3. Maintain discussions and iterate based on feedback from the community.
 
 ---
 
@@ -82,10 +85,10 @@ To inquire about rewards, reach out to **@jainsanil18** or email **sanil@dpsn.or
 
 ## 🔄 Review & Approval Process
 
-1. Proposal/Solution is submitted as a pull request.
+1. Proposal is submitted as a GitHub Issue.
 2. Community members and maintainers review the submission.
 3. Feedback is provided for any required modifications.
-4. Once approved, the proposal/solution is merged into the repository.
+4. Once consensus is reached, the proposal is marked as "Accepted" and moved forward for implementation.
 5. Rewards are allocated based on the agreement.
 
 ---
@@ -104,3 +107,4 @@ We are in the **early stages** of structuring this repository. Future improvemen
 - Email **sanil@dpsn.org** for official inquiries.
 
 Thank you for contributing to the **DPSN Infrastructure Proposals Repository**! 🎉
+
